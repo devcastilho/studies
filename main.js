@@ -1,8 +1,7 @@
 const socialMediaLinks = {
   github: 'devcastilho',
   youtube: 'channel/UC6mhNwN-kseGTJR5v2PBs3Q',
-  instagram: 'rafaeldecastilho_',
-  facebook: 'aguiargh',
+  instagram: 'teamcastilhofit',
   twitter: 'aguiar1995_'
 }
 function changeSocialMediaLinks() {
